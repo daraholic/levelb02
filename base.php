@@ -131,7 +131,7 @@ $User=new DB('user');
 $News=new DB('news');
 $View=new DB('view');
 $Que=new DB('que');
-$log=new DB('log');
+$Log=new DB('log');
 
 
 
